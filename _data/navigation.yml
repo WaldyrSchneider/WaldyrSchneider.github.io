@@ -1,9 +1,9 @@
 nav:
   - title: "Sobre"
-    section: sobre
+    section: services
 
   - title: "Projetos"
-    section: projetos
+    section: portfolio
     
   - title: "Membros"
     section: timeline
