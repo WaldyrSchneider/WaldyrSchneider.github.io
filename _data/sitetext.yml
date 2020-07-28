@@ -7,7 +7,7 @@ header:
 sobre:
     title: "Sobre"
     text: "Lorem ipsum"
-    section: sobre
+    section: services
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -22,7 +22,7 @@ sobre:
 projetos:
     title: "Projetos"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: projetos
+    section: portfolio
     
 
 timeline:
