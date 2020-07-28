@@ -19,8 +19,8 @@ services:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-portfolio:
-    title: "Portfolio"
+projetos:
+    title: "Projetos"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     
