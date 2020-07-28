@@ -4,10 +4,10 @@ header:
     button: Projetos
     buttonlink: "#projetos" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
+sobre:
+    title: "Sobre"
     text: "Lorem ipsum"
-    section: services
+    section: sobre
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
