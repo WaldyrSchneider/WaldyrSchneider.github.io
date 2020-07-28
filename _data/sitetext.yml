@@ -4,7 +4,7 @@ header:
     button: Projetos
     buttonlink: "#projetos" # "#{section}" or "URL/page link"
 
-sobre:
+services:
     title: "Sobre"
     text: "Lorem ipsum"
     section: services
@@ -19,7 +19,7 @@ sobre:
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-projetos:
+portfolio:
     title: "Projetos"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
