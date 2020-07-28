@@ -22,7 +22,7 @@ services:
 projetos:
     title: "Projetos"
     text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    section: projetos
     
 
 timeline:
