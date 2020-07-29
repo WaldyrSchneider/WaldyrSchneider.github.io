@@ -85,15 +85,6 @@ team:
     section: team
     people:
       - name: ""
-        role: ""
-        image:
-        social:
-          - url: 
-            icon: 
-          - url: 
-            icon: 
-          - url: 
-            icon: 
       - name: "Kay Garland"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
@@ -105,15 +96,6 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: ""
-        role: ""
-        image:
-        social:
-          - url: 
-            icon: 
-          - url: 
-            icon: 
-          - url: 
-            icon: 
       - name: "Kay Garland"
         role: "Lead Designer"
         image: assets/img/team/1.jpg
