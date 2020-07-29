@@ -1,4 +1,5 @@
 header:
+    text: Novo Site Oficial do PET-Informática!
     button: Projetos
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
