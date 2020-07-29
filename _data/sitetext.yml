@@ -9,7 +9,7 @@ services:
     section: services
     list:
       - title: "Sobre o PET"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "PET - Programa de educação tutorial - foi criado pelo MEC em 1979. Atualmente existem 842 grupos em que cada grupo é composto por 12 petianos e 1 tutor. O grupo desenvolve atividades de pesquisa e extensão."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
