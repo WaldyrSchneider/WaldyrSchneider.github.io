@@ -1,7 +1,7 @@
 ---
 title: BioView  
 subtitle: This project is a citizen science initiatives! The main idea is to develop an app that will connect people with the nature and create awareness about the biodiversity that exist in the campus of the university.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+image: https://raw.githubusercontent.com/petinfpucrs/BioView/master/Documentos/Logo/log%20v0.1.png?token=AOWYKNN2D5A2ZAMWWX2TPGC7FXAGE
 alt: Shirts on a hanger
 
 caption:
