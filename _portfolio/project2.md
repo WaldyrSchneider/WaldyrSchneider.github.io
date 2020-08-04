@@ -1,5 +1,5 @@
 ---
-title: SitePetinf  
+title: Site PET-Inf 
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
 alt: 
