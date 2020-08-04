@@ -1,15 +1,15 @@
 header:
-    title: Novo Site Oficial do PET-Informática!
-    button: Projetos
-    buttonlink: "#portfolio" # "#{section}" or "URL/page link"
+    #title: Novo Site Oficial do PET-Informática!
+    #button: Projetos
+    #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
     title: "Sobre"
-    text: " "
+    text: 
     section: services
     list:
       - title: "O Programa"
-        desc: <p align="justify">Organizado pelo MEC, o PET - Programa de Educação Tutorial - reúne bolsistas que contam com a tutoria de docentes. Funciona segundo os princípios de ensino, pesquisa e extensão. O objetivo é uma formação completa durante a graduação. <a href="http://portal.mec.gov.br/component/tags/tag/32496" target="_blank">Clique aqui</a> para saber mais!</p>
+        desc: desc: <p align="justify">Organizado pelo MEC, o PET - Programa de Educação Tutorial - reúne bolsistas que contam com a tutoria de docentes. O objetivo é uma formação completa durante a graduação, através da realização de projetos que funcionam segundo os princípios de ensino, pesquisa e extensão. <a href="http://portal.mec.gov.br/component/tags/tag/32496" target="_blank"><b>Clique aqui</b></a> para saber mais!</p>
         icon: fas fa-graduation-cap #find more at https://fontawesome.com/icons
       - title: "Nossa História"
         desc: <p align="justify">O PET-Inf foi criado na PUCRS em novembro de 1991, tendo como primeiro tutor o professor Álvaro Guarda. O grupo reúne alunos da graduação de vários cursos da área de tecnologia da universidade, desenvolvendo atividade com prioridade à diversidade de conhecimentos que vão além do currículo formal. <a href="http://www.pucrs.br/politecnica/amplie-sua-formacao/programa-de-educacao-tutorial" target="_blank">Saiba mais!</a></p>
@@ -28,7 +28,7 @@ services:
         
 portfolio:
     title: "Projetos"
-    text: "Veja os trabalhos que estão sendo desenvolvidos pelo grupo!"
+    text: "Veja os trabalhos em desenvolvimento!"
     section: portfolio
 
 timeline:
@@ -88,18 +88,18 @@ team:
     people:
       - name: " "
       - name: "Prof. Dr. Tiago Ferreto"
-        role: "Tutor <br> Graduação em lorem ipsum"
+        role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
         image: assets/img/team/TiagoF.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
+          #- url: https://twitter.com
+            #icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: " "
       - name: "Daniela Rigoli"
-        role: "Ciência da Computação"
+        role: "Estudante de Ciência da Computação <br> <b>Projeto: BioView</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -109,7 +109,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Felipe Ferro"
-        role: "Ciência da Computação"
+        role: "Estudante de Ciência da Computação <br> <b>Projeto: ENADEApp</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -119,7 +119,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
-        role: "Engenharia da Computação"
+        role: "Estudante de Engenharia da Computação <br> <b>Projeto: Site PET-Inf</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -129,7 +129,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Lucas Buffet"
-        role: "Engenharia de Software"
+        role: "Estudante de Engenharia de Software <br> <b>Projeto: ENADEApp</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -139,7 +139,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Pedro Rogoski"
-        role: "Engenharia de Software"
+        role: "Estudante de Engenharia de Software <br> <b>Projeto: BioView</b>"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -149,7 +149,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
-        role: "Ciência da Computação"
+        role: "Estudante de Ciência da Computação <br> <b>Projeto: Site PET-Inf</b>"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -164,7 +164,7 @@ contact:
     section: contact
     
 footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidade"
     social:
       - url: https://twitter.com
         icon: "fab fa-twitter"  
