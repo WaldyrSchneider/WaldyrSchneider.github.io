@@ -1,18 +1,16 @@
 ---
-title: BioView  
-subtitle: This project is a citizen science initiatives! The main idea is to develop an app that will connect people with the nature and create awareness about the biodiversity that exist in the campus of the university.
-image: https://raw.githubusercontent.com/petinfpucrs/BioView/master/Documentos/Logo/log%20v0.1.png?token=AOWYKNN2D5A2ZAMWWX2TPGC7FXAGE
-alt: Shirts on a hanger
+title: BioView
+subtitle: Este projeto é uma iniciativa de Ciência Cidadã! A ideia principal é desenvolver um aplicativo que conecte as pessoas com a natureza e crie conscientização sobre a biodiversidade existente no campus da universidade.
+image: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/log%20v0.1.png
 
 caption:
   title: BioView
-  subtitle: APP
-  thumbnail: https://raw.githubusercontent.com/petinfpucrs/BioView/master/Documentos/Logo/log%20v0.1.png?token=AOWYKNLGRWCWARPZX6HPABS7FXAOM
----
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  subtitle: Aplicação
+  thumbnail: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/capa-bioview.png
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura moderna e diversidade biológica, gerando à comunidade uma conexão constante entre aspectos tecnológicos e naturais. Pensando nesses conceitos, o BioView é uma aplicação que sugere aos seus usuários a documentação deste meio natural de forma que, além de informar e conectar as pessoas à natureza que está inserida, leva à conscientização sobre o impacto que temos sobre nosso meio ambiente.</p>
+
+imag: https://raw.githubusercontent.com/WaldyrSchneider/WaldyrSchneider.github.io/master/assets/img/Tela-Bioview.png
+
+---
 
