@@ -18,15 +18,8 @@
   <meta name="author" content="{{ site.author }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-<!--   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title> -->
-  <a class="site-title" href="{{ full_base_url }}/">
-      {% if site.logo %}
-        <img src="{{ full_base_url }}/{{ site.logo }}" class="site-logo" width="auto" height="56">
-      {% else %}
-        {{ site.title | escape }}
-      {% endif %}
-    </a>
-
+  <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
+	
   <!-- Bootstrap core CSS -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
