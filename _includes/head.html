@@ -18,9 +18,7 @@
   <meta name="author" content="{{ site.author }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-<!--   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title> -->
-  <img src="(assets/img/PET-Inf_logo.png)" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
-  <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+  <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
 
   <!-- Bootstrap core CSS -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
