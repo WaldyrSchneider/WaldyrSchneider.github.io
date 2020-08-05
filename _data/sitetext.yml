@@ -36,9 +36,9 @@ timeline:
     text: "Projetos já realizados!"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Início do PET na PUCRS"
+        year: "1991 - 1993"
+        desc: "Tutor: Prof. Dr. Álvaro Guarda"
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
