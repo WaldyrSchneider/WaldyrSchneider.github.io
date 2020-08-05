@@ -2,7 +2,6 @@ header:
     #title: Novo Site Oficial do PET-Informática!
     #button: Projetos
     #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
-    image: assets/img/PET-Inf_logo.png
 
 services:
     title: "Sobre"
