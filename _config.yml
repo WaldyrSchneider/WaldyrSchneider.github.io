@@ -22,9 +22,8 @@ email      : your-email@example.com #this is also the email contact forms will g
 description: "Novo Site Oficial do PET-Inf - PUCRS"
 author     : 
 # logo       : PET-Informática #optional, defaults to site title
-logo       : assets\img\PET-Inf_logo.png
 # path       : assets\img\PET-Inf_logo.png
-height     : 60 #height in px, defaults to 52px
+# height     : 60 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
