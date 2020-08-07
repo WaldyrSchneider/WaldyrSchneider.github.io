@@ -137,7 +137,7 @@ team:
         role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
         image: assets/img/team/2.jpg
         social:
-          - url: https://github.com/Rgoski21
+          - url: https://github.com/Rogoski21
             icon: fab fa-github
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
