@@ -119,7 +119,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
         role: "Engenharia da Computação <br> <b>Ingresso: 07/2020</b>"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/JesseR.jpg
         social:
           - url: https://github.com/JesseSRodrigues
             icon: fab fa-github
@@ -135,7 +135,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Pedro Rogoski"
         role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/PedroR.jpg
         social:
           - url: https://github.com/Rogoski21
             icon: fab fa-github
