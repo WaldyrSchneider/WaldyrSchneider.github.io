@@ -143,7 +143,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
         role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/3.jpg
+        image: assets/img/team/WaldyrS.jpeg
         social:
           - url: https://github.com/WaldyrSchneider
             icon: fab fa-github
