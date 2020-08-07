@@ -104,7 +104,7 @@ team:
             icon: fab fa-linkedin-in
       - name: " "
       - name: "Daniela Rigoli"
-        role: "Ciência da Computação <br> <b>Entrou: 07/2020</b>"
+        role: "Ciência da Computação <br> <b>Ingresso: 07/2020</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -114,7 +114,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Felipe Ferro"
-        role: "Ciência da Computação <br> <b>Entrou: 09/2018</b>"
+        role: "Ciência da Computação <br> <b>Ingresso: 09/2018</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -124,7 +124,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
-        role: "Engenharia da Computação <br> <b>Entrou: 07/2020</b>"
+        role: "Engenharia da Computação <br> <b>Ingresso: 07/2020</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -134,7 +134,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Lucas Buffet"
-        role: "Engenharia de Software <br> <b>Entrou: 04/2020</b>"
+        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -144,7 +144,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Pedro Rogoski"
-        role: "Engenharia de Software <br> <b>Entrou: 04/2020</b>"
+        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -154,7 +154,7 @@ team:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Entrou: 04/2020</b>"
+        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
