@@ -23,7 +23,7 @@ services:
 
                 <li><b>Edital 2020/2 - Em Andamento</b></li>
 
-            </ul> 
+            <ul/> 
         icon: fas fa-users
         
 notícias:
@@ -67,22 +67,22 @@ timeline:
 
                 <li>Prof. Dr. Tiago Ferreto: 2011 - Atual</li>
 
-            </ul> "
+            <ul/> "
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-        #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
-        align: right
+#       - title: "Jekyll Theme is created"
+#         year: "2019"
+#         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+#         image: assets/img/timeline/3.jpg
+#         alt: image alt text
+#         #align: #default is left       
+#       - title: "Title"
+#         year: "2009-2011"
+#         desc: "Your description here, **Markdown** is fully supported."
+#         image: assets/img/timeline/4.jpg
+#         alt: 
+#         align: right
     end: "Faça parte <br> da nossa <br> Equipe!"
 
 #about:
