@@ -41,5 +41,5 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) �
 
       </ul>
       
-      <p align="right">Última atualização: 11/08/2020</p>
+      <p align="right">Última atualização&#58 11/08/2020</p>
 ---
