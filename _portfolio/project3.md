@@ -40,4 +40,6 @@ text: <p align="justify">O Exame Nacional de Desempenho dos Estudantes (ENADE) �
         <li>Lucas Buffet</li>
 
       </ul>
+      
+      <p align="right">Última atualização: 11/08/2020</p>
 ---
