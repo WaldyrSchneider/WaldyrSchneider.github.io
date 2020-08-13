@@ -26,10 +26,10 @@ services:
             <ul/> 
         icon: fas fa-users
         
-notícias:
-    title: "Fique por dentro das novas notícias sobre o PET"
-    text: "Veja os trabalhos em desenvolvimento!"
-    section: notícias 
+#notícias:
+    #title: "Fique por dentro das novas notícias sobre o PET"
+    #text: "Veja os trabalhos em desenvolvimento!"
+    #section: notícias 
     
 portfolio:
     title: "Projetos"
