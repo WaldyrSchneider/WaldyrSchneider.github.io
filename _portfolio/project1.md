@@ -30,8 +30,6 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
 
       <ul align="left">
 
-        <li>Daniela Rigoli</li>
-
         <li>Pedro Rogoski</li>
 
       </ul>
