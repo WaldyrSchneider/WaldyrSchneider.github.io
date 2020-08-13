@@ -12,7 +12,7 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
 
       <p align="justify">Inicialmente, o aplicativo deve funcionar como uma enciclopédia, organizando diversas informações sobre a diversidade biológica que se encontra no campus da PUCRS (plantas, insetos, etc). A ideia para o futuro é expandir os locais e adicionar novas funcionalidades para possibilitar a conexão entre os usuários do BioView.</p>
 
-      <p align="justify">Principais ferramentas/linguagens usadas na construção do BioView:</p>
+      <p align="justify">O BioView está em fase de desenvolvimento para Android e IOS com as ferramentas/linguagens a seguir:</p>
       
       <ul align="left">
 
