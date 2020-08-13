@@ -111,7 +111,6 @@ team:
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: " "
       - name: "Prof. Dr. Tiago Ferreto"
         role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
         image: assets/img/team/TiagoF.png
@@ -119,15 +118,6 @@ team:
           - url: https://github.com/tiagoferreto
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
-            icon: fab fa-linkedin-in
-      - name: " "
-      - name: "Daniela Rigoli"
-        role: "Ciência da Computação <br> <b>Ingresso: 07/2020</b>"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://github.com/DeltaRig
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/daniela-rigoli-304b9b190/
             icon: fab fa-linkedin-in
       - name: "Felipe Ferro"
         role: "Ciência da Computação <br> <b>Ingresso: 09/2018</b>"
