@@ -24,8 +24,6 @@ text: <p align="justify">O Campus da PUCRS é conhecido por sua arquitetura mode
 
           <li>CSS</li>
 
-          <li>Javascript</li>
-
       </ul>
 
       <p align="justify">Integrantes do PET-Inf no projeto:</p>
