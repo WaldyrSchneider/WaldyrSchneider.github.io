@@ -29,7 +29,7 @@ author     :
 # height     : 60 #height in px, defaults to 52px
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: UA-85423688-1
 
 collections:
   portfolio:
