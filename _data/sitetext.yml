@@ -4,7 +4,7 @@ header:
     #buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
 services:
-    title: "Sobre o PET"
+    title: "PET-Informática"
     text: 
     section: services
     list:
