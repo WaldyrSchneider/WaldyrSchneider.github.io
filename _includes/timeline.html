@@ -17,7 +17,9 @@
 			<li>
 			{% endif %}
               <div class="timeline-image">
-                <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+		<a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+                	<img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
+		</a>
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
