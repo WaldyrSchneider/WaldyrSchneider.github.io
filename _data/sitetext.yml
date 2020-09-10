@@ -110,7 +110,7 @@ team:
     #text: "Lorem ipsum dolor sit amet consectetur."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    people:
+    people2:
       - name: "Prof. Dr. Tiago Ferreto"
         role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
         image: assets/img/team/TiagoF.png
@@ -119,6 +119,7 @@ team:
             icon: fab fa-github
           - url: https://www.linkedin.com/in/tiagoferreto/
             icon: fab fa-linkedin-in
+    people:
       - name: "Felipe Ferro"
         role: "Ciência da Computação <br> <b>Ingresso: 09/2018</b>"
         image: assets/img/team/FelipeF.jpg
