@@ -121,92 +121,36 @@ team:
             icon: fab fa-linkedin-in
     people:
       - name: "Felipe Ferro"
-        role: "Ciência da Computação <br> <b>Ingresso: 09/2018</b>"
+        role: "Ciência da Computação <br> Ingresso: 09/2018"
         image: assets/img/team/FelipeF.jpg
         social:
           - url: https://github.com/Felipe3Ferro
             icon: fab fa-github
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/felipe-ferro-76a077191/
             icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
+      - name: "Jessé Rodrigues"
+        role: "Engenharia da Computação <br> <b>Ingresso: 07/2020</b>"
+        image: assets/img/team/JesseR.jpg
         social:
-          - url: https://github.com/WaldyrSchneider
+          - url: https://github.com/JesseSRodrigues
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
+          - url: https://www.linkedin.com/in/jessé-rodrigues-8522031b4
             icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
+      - name: "Lucas Buffet"
+        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
+        image: assets/img/team/LucasB.jpg
         social:
-          - url: https://github.com/WaldyrSchneider
+          - url: https://github.com/lebuffet02
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
+          - url: https://www.linkedin.com/in/lucas-buffet-28b7061b4/
             icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
+      - name: "Pedro Rogoski"
+        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
+        image: assets/img/team/PedroR.jpeg
         social:
-          - url: https://github.com/WaldyrSchneider
+          - url: https://github.com/Rogoski21
             icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
-            icon: fab fa-linkedin-in
-      - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
-        image: assets/img/team/WaldyrS.jpeg
-        social:
-          - url: https://github.com/WaldyrSchneider
-            icon: fab fa-github
-          - url: https://www.linkedin.com/in/waldyr-schneider/
+          - url: https://www.linkedin.com/in/pedro-maia-rogoski-705119183/
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
         role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
