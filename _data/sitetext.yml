@@ -164,9 +164,9 @@ team:
         role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/1.jpg
         social:
-          - url: 
+          - url: https://github.com/Wolxf2
             icon: fab fa-github
-          - url: 
+          - url: https://www.linkedin.com/in/luiz-ot%C3%A1vio-jirkowsky-e-silva-b114741b7/
             icon: fab fa-linkedin-in
       - name: "Pedro Filippi"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
