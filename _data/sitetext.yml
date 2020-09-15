@@ -180,7 +180,7 @@ team:
         role: "<b>Ciência da Computação</b> <br> Ingresso: 09/2020"
         image: assets/img/team/1.jpg
         social:
-          - url: 
+          - url: https://github.com/Pedro30Machado
             icon: fab fa-github
           - url: https://www.linkedin.com/in/pedro-machado-3a74741b7
             icon: fab fa-linkedin-in
