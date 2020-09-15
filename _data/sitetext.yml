@@ -162,7 +162,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Luiz Otávio"
         role: "<b>Sistemas de Informação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/LuizO.png
         social:
           - url: https://github.com/Wolxf2
             icon: fab fa-github
@@ -202,7 +202,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Thiago Borges"
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/ThiagoB.png
         social:
           - url: https://github.com/thiagoab02
             icon: fab fa-github
