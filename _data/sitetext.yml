@@ -110,7 +110,7 @@ team:
     #text: "Lorem ipsum dolor sit amet consectetur."
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
-    people2:
+    tutor:
       - name: "Prof. Dr. Tiago Ferreto"
         role: "Ph.D. em Ciência da Computação <br> <b>Tutor</b>"
         image: assets/img/team/TiagoF.png
@@ -153,7 +153,7 @@ team:
           - url: https://www.linkedin.com/in/jessé-rodrigues-8522031b4
             icon: fab fa-linkedin-in
       - name: "Lucas Buffet"
-        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2020"
         image: assets/img/team/LucasB.jpg
         social:
           - url: https://github.com/lebuffet02
@@ -185,7 +185,7 @@ team:
           - url: https://www.linkedin.com/in/pedro-machado-3a74741b7
             icon: fab fa-linkedin-in
       - name: "Pedro Rogoski"
-        role: "Engenharia de Software <br> <b>Ingresso: 04/2020</b>"
+        role: "<b>Engenharia de Software</b> <br> Ingresso: 04/2020"
         image: assets/img/team/PedroR.jpeg
         social:
           - url: https://github.com/Rogoski21
@@ -209,7 +209,7 @@ team:
           - url: https://www.linkedin.com/in/thiago-aborges/
             icon: fab fa-linkedin-in
       - name: "Waldyr Schneider"
-        role: "Ciência da Computação <br> <b>Ingresso: 04/2020</b>"
+        role: "<b>Ciência da Computação</b> <br> Ingresso: 04/2020"
         image: assets/img/team/WaldyrS.jpeg
         social:
           - url: https://github.com/WaldyrSchneider
