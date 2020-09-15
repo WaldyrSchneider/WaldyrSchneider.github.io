@@ -194,7 +194,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Rafael Shaker"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/RafaelS.png
+        image: assets/img/team/RafaelS.jpeg
         social:
           - url: https://github.com/Rafael-Schaker
             icon: fab fa-github
