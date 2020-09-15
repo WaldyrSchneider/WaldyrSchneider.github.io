@@ -138,11 +138,11 @@ team:
             icon: fab fa-linkedin-in
       - name: "Henrique Feijó"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/HenriqueF.png
         social:
-          - url: 
+          - url: https://github.com/thehenrik18 
             icon: fab fa-github
-          - url:
+          - url: https://www.linkedin.com/in/henrique-feij%C3%B3-4245491b7
             icon: fab fa-linkedin-in
       - name: "Jessé Rodrigues"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 07/2020"
@@ -194,7 +194,7 @@ team:
             icon: fab fa-linkedin-in
       - name: "Rafael Shaker"
         role: "<b>Engenharia de Computação</b> <br> Ingresso: 09/2020"
-        image: assets/img/team/1.jpg
+        image: assets/img/team/RafaelS.png
         social:
           - url: https://github.com/Rafael-Schaker
             icon: fab fa-github
@@ -204,7 +204,7 @@ team:
         role: "<b>Engenharia de Software</b> <br> Ingresso: 09/2020"
         image: assets/img/team/1.jpg
         social:
-          - url: 
+          - url: https://github.com/thiagoab02
             icon: fab fa-github
           - url: https://www.linkedin.com/in/thiago-aborges/
             icon: fab fa-linkedin-in
