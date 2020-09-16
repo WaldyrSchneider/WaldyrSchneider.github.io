@@ -20,9 +20,9 @@
 		<a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
 			<div class="rounded-circle portfolio-hover">
 				<div class="portfolio-hover-content">
-				<img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
 				<i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
 			</div>
+			<img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
 		</div>
 		</a>
               </div>
