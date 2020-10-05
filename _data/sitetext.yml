@@ -28,7 +28,7 @@ services:
         #buttonlink: "https://forms.office.com/Pages/ResponsePage.aspx?id=Mc_rUTlYLkGDu4AaK6eGJ1WOVcM8ikRKuf9euQoAVJtUMFJNMUYxUDhFUDFaUTRZTldNTjhEOEo1QSQlQCN0PWcu" # "#{section}" or "URL/page link"
         icon: fas fa-users
     button: Acesse Nosso Blog!
-    buttonlink: "https://jessesrodrigues.github.io/blog"   
+    buttonlink: "https://waldyrschneider.github.io/blog"   
     
 portfolio:
     title: "Projetos"
