@@ -2,11 +2,12 @@
 .btn {
   @include heading-font;
   font-weight: 700;
+  text-align: center;
 }
 
 .btn-xl {
   font-size: 18px;
-  padding: 10px 25px;
+  padding: 20px 40px;
 }
 
 .btn-primary {

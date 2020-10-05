@@ -1,9 +1,6 @@
 nav:
   - title: "Sobre"
-    section: services
-    
-  #- title: "Notícias"
-  #  section: notícias  
+    section: services 
 
   - title: "Projetos"
     section: portfolio
@@ -16,4 +13,7 @@ nav:
 
   - title: "Contato"
     section: contact
+
+  - title: "Blog"
+    url: https://waldyrschneider.github.io/blog
 

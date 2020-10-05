@@ -21,17 +21,14 @@ services:
 
                 <li>Edital 2020/1 - Encerrado</li>
 
-                <li><b>Edital 2020/2 - Em Andamento</b></li>
+                <li><b>Edital 2020/2 - Encerrado</b></li>
 
             <ul/> 
         #button: Inscreva-se
         #buttonlink: "https://forms.office.com/Pages/ResponsePage.aspx?id=Mc_rUTlYLkGDu4AaK6eGJ1WOVcM8ikRKuf9euQoAVJtUMFJNMUYxUDhFUDFaUTRZTldNTjhEOEo1QSQlQCN0PWcu" # "#{section}" or "URL/page link"
         icon: fas fa-users
-        
-#notícias:
-    #title: "Fique por dentro das novas notícias sobre o PET"
-    #text: "Veja os trabalhos em desenvolvimento!"
-    #section: notícias 
+    button: Acesse Nosso Blog!
+    buttonlink: "https://jessesrodrigues.github.io/blog"   
     
 portfolio:
     title: "Projetos"
